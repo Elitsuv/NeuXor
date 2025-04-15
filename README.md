@@ -1,6 +1,8 @@
 # 🧠 NeuXor — The XOR Neural Network
 A minimal neural network built entirely from scratch using NumPy — designed to learn the classic XOR logic function.
-> 💡 **Note:** This project is experimental
+
+> [!NOTE] 
+> This project is experimental and intended for learning purposes only.
 
 ## 📌 Project Goal
 To **demystify how neural networks work** under the hood by building one from scratch —  
