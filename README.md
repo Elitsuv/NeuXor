@@ -23,7 +23,9 @@ We use **1 hidden layer** with **2 neurons**, and **sigmoid** activations.
 ---
 
 ## 🧠 Neural Network Architecture
-
+<p align="center">
+  <img src="neuxor.png" alt="NeuXor Neural Network Diagram" width="500"/>
+</p>
 ---
 
 ## 🧪 XOR Dataset
